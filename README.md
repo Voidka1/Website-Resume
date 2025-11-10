@@ -1,5 +1,6 @@
 # Website-Resume
 The website is short and simple and hopefully shows a little skill in what I can do.
+This was used with Chatgpt as a muse
 <!DOCTYPE html>
 <html lang="en">
   <head>
